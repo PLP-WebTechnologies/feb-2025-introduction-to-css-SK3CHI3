@@ -1,0 +1,31 @@
+/* Styling the title using a class */
+.title {
+    color: darkblue;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/* Styling the paragraph using an ID */
+#description {
+    font-size: 18px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+/* Styling the image */
+.styled-image {
+    width: 300px;
+    border: 5px solid black;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Styling a div with padding, margin, and border */
+.box {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid darkgray;
+    border-radius: 10px;
+    text-align: center;
+}
